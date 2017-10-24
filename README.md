@@ -2,6 +2,12 @@
 
 This a content package project generated using the AEM Multimodule Lazybones template.
 
+## What is it?
+It's a simple granite widget that will display HTML markup and highlight it using [CodeFlask](https://kazzkiq.github.io/CodeFlask.js/)
+
+Sample dialog:
+![AEM HTML Editor Widget](doc/dialog-screenshot.jpg)
+
 ## Usage
 > Tested and developed on AEM 6.3, though it "should" work on earlier AEM versions.
 
@@ -17,11 +23,6 @@ Build the project as described in the "Building" section. Then in any of your To
   rows="20"
   sling:resourceType="/apps/aem-html-editor-widget"/>
 ```
-
-Sample dialog:
-![AEM HTML Editor Widget](doc/dialog-screenshot.jpg)
-
-
 
 ## Building
 
