@@ -1,3 +1,0 @@
-vendor/prism.js
-vendor/codeflask.js
-script.js
