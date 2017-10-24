@@ -8,7 +8,7 @@
 
     <groupId>com.ahmedmusallam</groupId>
     <artifactId>aem-html-editor-widget</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <name>AEM HTML Editor Widget - Reactor Project</name>
