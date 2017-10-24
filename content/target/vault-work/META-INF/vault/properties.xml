@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM HTML Editor Widget Content Package</comment>
+<entry key="createdBy">ahmmusal</entry>
+<entry key="name">aem-html-editor-widget-content</entry>
+<entry key="created">2017-10-24T17:50:13.092-0500</entry>
+<entry key="groupId">com.ahmedmusallam</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem-html-editor-widget</entry>
+<entry key="description">Maven Multimodule project for AEM HTML Editor Widget.</entry>
+<entry key="artifactId">aem-html-editor-widget-content</entry>
+<entry key="path">/etc/packages/aem-html-editor-widget/aem-html-editor-widget-content.zip</entry>
+</properties>
